@@ -71,20 +71,4 @@ Ejecuta la clase principal: com.farmacia.gui.FarmaciaGUI
 
 ✅ Visualización de inventario en tabla
 
-🛠️ Estructura del Proyecto
-farmacia-inventario/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── farmacia/
-│   │   │           ├── db/          # Conexión a BD
-│   │   │           ├── dto/         # Objetos de transferencia
-│   │   │           ├── core/        # Lógica de negocio
-│   │   │           └── gui/         # Interfaz gráfica
-│   │   └── resources/
-│   └── test/                        # Pruebas unitarias
-├── sql/
-│   └── setup_database.sql           # Script de BD
-├── pom.xml                          # Config Maven
-└── README.md                    
+               
